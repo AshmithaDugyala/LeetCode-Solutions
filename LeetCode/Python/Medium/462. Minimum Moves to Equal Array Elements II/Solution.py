@@ -4,6 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
+        if len(nums)==1:
+            return nums[0]
         a=2
         count=0
         for i in range(len(nums)):
