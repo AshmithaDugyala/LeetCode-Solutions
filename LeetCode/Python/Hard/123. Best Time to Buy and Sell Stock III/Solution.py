@@ -22,5 +22,5 @@ class Solution(object):
             if c[i]==c[i-1]:
                 return sum(c)
             if c.count(i)==1:
-                return c[1]
+                return c[i]
         return d
