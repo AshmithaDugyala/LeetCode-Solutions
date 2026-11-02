@@ -6,7 +6,7 @@ class Solution(object):
         """
         if len(nums)==1:
             return 0
-        a=2
+        a=
         count=0
         for i in range(len(nums)):
             count+=abs(a-nums[i])
