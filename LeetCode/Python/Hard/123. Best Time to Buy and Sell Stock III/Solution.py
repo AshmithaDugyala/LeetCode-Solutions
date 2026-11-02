@@ -20,6 +20,5 @@ class Solution(object):
             if c[i]<c[i+1] or c[i]==c[i+1]:
                 d+=c[i+1]
             if c[i]==c[i-1]:
-                return sum(c)
-            
+                return sum(c)   
         return d
