@@ -4,7 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        nums
+        nums.sort()
         a=nums[len(nums)//2]
         count=0
         for i in range(len(nums)):
