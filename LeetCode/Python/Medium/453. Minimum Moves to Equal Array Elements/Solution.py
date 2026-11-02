@@ -1,8 +1,8 @@
 class Solution(object):
     def minMoves(self, nums):
         
-        a=max(nums)
+        a=min(nums)
         count=0
         for i in range(len(nums)):
-            count+=a-
+            count+=nums[i]-a
         return count
