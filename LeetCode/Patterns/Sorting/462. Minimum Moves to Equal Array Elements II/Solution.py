@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: int
         """
         if len(nums)==1:
-            return nums[0
+            return 0
         a=2
         count=0
         for i in range(len(nums)):
