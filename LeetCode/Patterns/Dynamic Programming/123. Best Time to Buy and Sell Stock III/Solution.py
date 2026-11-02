@@ -15,7 +15,7 @@ class Solution(object):
                 a=i
             else:
                 a=i
-                
+
         for i in range(len(c)-1):
             if c[i]<c[i+1] or c[i]==c[i+1]:
                 d+=c[i+1]
