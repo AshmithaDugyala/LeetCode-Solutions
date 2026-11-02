@@ -1,6 +1,6 @@
 # 📝 122. Best Time to Buy and Sell Stock II (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/?envType=problem-list-v2&envId=array)
+🔗 [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Dynamic Programming, Greedy
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 2 ms
+- **Memory:** 13.6 MB
 
 ---
 
