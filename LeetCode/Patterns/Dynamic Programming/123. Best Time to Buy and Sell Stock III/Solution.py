@@ -21,6 +21,5 @@ class Solution(object):
                 d+=c[i+1]
             if c[i]==c[i-1]:
                 return sum(c)
-            if c.count(i)==1:
-                return 1
+            
         return d
