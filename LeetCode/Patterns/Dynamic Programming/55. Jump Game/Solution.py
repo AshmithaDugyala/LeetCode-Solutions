@@ -4,7 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        if len(nums)==1 and nums[0]>0:
+        if len(nums)==1:
             return True
         current=0
         jumps=0
@@ -15,6 +15,6 @@ class Solution(object):
             if i==current:
                 jumps+=1
                 current=maxx
-        if jumps>=0 and current==nums[len(nums)-1]:
+        if current>=nums[len(nums)-1]:
             return True
         return False
