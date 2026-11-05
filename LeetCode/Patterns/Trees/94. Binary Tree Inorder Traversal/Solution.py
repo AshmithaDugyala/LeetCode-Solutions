@@ -13,7 +13,7 @@ class Solution(object):
         a=[]
         if root is None:
             return []
-        a+=self.inorderTraversal(root.left)
+        a+=(self.inorderTraversal(root.left))
         a.append(root.val)
         a+=self.inorderTraversal(root.right)
         return a
