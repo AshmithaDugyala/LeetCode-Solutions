@@ -4,7 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        if len(nums)==1 and nums[0]:
+        if len(nums)==1 and nums[0]>0:
             return True
         current=0
         jumps=0
