@@ -16,5 +16,5 @@ class Solution(object):
         if root.left is None and root.right is None:
             return 0
         a=root.left.val+root.right.left.val
-        
+        self.sumOfLeftLeaves(root.left)
         return a
