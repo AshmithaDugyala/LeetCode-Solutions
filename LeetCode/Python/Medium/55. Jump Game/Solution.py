@@ -13,6 +13,5 @@ class Solution(object):
             if i==current:
                 jumps+=1
                 current=maxx
-        if jumps>=2 and maxx==nums[len(nums)-1]:
-            return True
-        return False
+        return maxx==nums[len(nums)-1]
+        
