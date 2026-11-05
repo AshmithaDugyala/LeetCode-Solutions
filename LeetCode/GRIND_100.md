@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 8 / 100 (8.0%)
+- **Completed:** 9 / 100 (9.0%)
 
 ---
 
@@ -56,7 +56,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Merge k Sorted Lists
 
 ### 📂 Binary Tree & BST
-- [ ] Invert Binary Tree
+- [x] [Invert Binary Tree](./Python/Easy/226. Invert Binary Tree/)
 - [ ] Symmetric Tree
 - [ ] Maximum Depth of Binary Tree
 - [ ] Diameter of Binary Tree
