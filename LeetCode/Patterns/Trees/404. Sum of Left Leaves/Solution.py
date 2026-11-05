@@ -12,9 +12,11 @@ class Solution(object):
         """
         a=0
         if root is None:
-            return
-        if root.left is None and root.right is None:
-            return 0
-        a=root.left.val+root.right.left.val
-        self.sumOfLeftLeaves(root.left)
+            return a
+        if root.left is not None:
+            if root.left.left is None and root.left.right is None:
+                a+=root.left.val
+            else:
+                a+=self.sumOfLeftLeaves(root.left)
+        a+=self.sumOfLeftLeaves(root.right)
         return a
