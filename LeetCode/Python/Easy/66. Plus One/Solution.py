@@ -12,9 +12,9 @@ class Solution(object):
             elif digits[i]==9:
                 c+=1
                 a.append(1)
-                a.append(0)
-            elif  c>1:
                 a.append(0)  
             else:
                 a.append(digits[i]+1)
+            if  c>1:
+                a.append(0)
         return a
