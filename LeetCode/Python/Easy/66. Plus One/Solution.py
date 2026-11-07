@@ -9,12 +9,13 @@ class Solution(object):
         for i in range(len(digits)):
             if digits[i]!=digits[len(digits)-1]:
                 a.append(digits[i])
-            elif digits[i]==9:
+            elif digits[i]==9 and len(digits)==1:
                 c+=1
-                a.append(1)
-                a.append(0)
-                if  c>1:
-                    a.remove(a[3])
+                if c==1:
+                    a.append(1)
+                    a.append(0)
+                else:
+                    a.append(0)
             else:
                 a.append(digits[i]+1)
         return a
