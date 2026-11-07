@@ -8,7 +8,7 @@
 Array, Hash Table, Recursion, Sorting, Enumeration
 
 ### 🚀 Performance
-- **Runtime:** N/A
+- **Runtime:** Successfully Evaluated
 - **Memory:** N/A
 
 ---
