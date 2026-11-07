@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/plus-one/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-C-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 ### 💡 Tags
 Array, Math
 
 ### 🚀 Performance
-- **Runtime:** 0 ms
-- **Memory:** 10.1 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
