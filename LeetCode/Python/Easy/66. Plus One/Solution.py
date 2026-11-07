@@ -14,7 +14,7 @@ class Solution(object):
                 a.append(1)
                 a.append(0)
                 if  c>1:
-                    a.remove(a[len(a)])
+                    a.remove(a[len(a)-1])
             else:
                 a.append(digits[i]+1)
         return a
