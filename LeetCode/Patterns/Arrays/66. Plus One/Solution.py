@@ -5,13 +5,16 @@ class Solution(object):
         :rtype: List[int]
         """
         a=[]
+        c=0
         for i in range(len(digits)):
             if digits[i]!=digits[len(digits)-1]:
                 a.append(digits[i])
             elif digits[i]==9:
+                c+=1
                 a.append(1)
                 a.append(0)
-                
+            elif  c>1:
+                a.append(0)  
             else:
                 a.append(digits[i]+1)
         return a
