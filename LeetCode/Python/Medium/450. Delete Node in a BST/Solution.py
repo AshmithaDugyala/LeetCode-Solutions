@@ -15,7 +15,7 @@ class Solution(object):
             return None
         if key<root.val:
             root.left=self.deleteNode(root.left,key)
-        elif key<root.val:
+        elif key>root.val:
             root.right=self.deleteNode(root.right,key)
         else:
             if root.left is None:
