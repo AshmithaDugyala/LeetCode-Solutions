@@ -6,7 +6,7 @@ class Solution(object):
         """
         stack=[]
         count=0
-        for i in range(len(s)):
+        for i in range(len(s)-1):
             if s[i]=="(" and s[i+1]==")":
                 count+=2
                 while len(s)==0:

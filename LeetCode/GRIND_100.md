@@ -104,7 +104,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Best Time to Buy and Sell Stock with Cooldown
 - [ ] Perfect Squares
 - [ ] Maximal Square
-- [x] [Longest Valid Parentheses](./C/Hard/32. Longest Valid Parentheses/)
+- [x] [Longest Valid Parentheses](./Python/Hard/32. Longest Valid Parentheses/)
 
 ### 📂 Stack & Heap
 - [ ] Min Stack
