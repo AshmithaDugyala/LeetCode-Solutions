@@ -33,7 +33,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 ### 📂 Hash Map & String
 - [ ] Group Anagrams
 - [ ] Longest Consecutive Sequence
-- [x] [Valid Parentheses](./C/Easy/20. Valid Parentheses/)
+- [x] [Valid Parentheses](./Python/Easy/20. Valid Parentheses/)
 - [ ] Decode String
 - [x] [Valid Palindrome](./Python/Easy/125. Valid Palindrome/)
 - [ ] Longest Palindromic Substring
