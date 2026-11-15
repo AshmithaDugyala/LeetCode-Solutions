@@ -26,8 +26,7 @@ class MinStack(object):
         """
         :rtype: int
         """
-    
-        return minn
+        return min(self.s1)
 
 
 # Your MinStack object will be instantiated and called as such:
