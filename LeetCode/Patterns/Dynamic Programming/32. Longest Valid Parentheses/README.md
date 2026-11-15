@@ -2,14 +2,14 @@
 
 🔗 [Problem Link](https://leetcode.com/problems/longest-valid-parentheses/)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-C-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
 ### 💡 Tags
 String, Dynamic Programming, Stack, Bracket Sequences
 
 ### 🚀 Performance
-- **Runtime:** 0 ms
-- **Memory:** 10.3 MB
+- **Runtime:** N/A
+- **Memory:** N/A
 
 ---
 
