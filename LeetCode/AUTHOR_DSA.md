@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs DSA core interview preparation list.
 
 ## Progress
-- **Completed:** 13 / 238 (5.5%)
+- **Completed:** 14 / 238 (5.9%)
 
 ---
 
@@ -291,7 +291,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Design HashMap
 
 ### 📂 PART  2: STACKS Topics Covered: 1. Stack
-- [ ] Evaluate Reverse Polish Notation
+- [x] [Evaluate Reverse Polish Notation](./Python/Medium/150. Evaluate Reverse Polish Notation/)
 - [ ] Basic Calculator
 - [ ] Basic Calculator II
 - [ ] Backspace String Compare
