@@ -8,7 +8,7 @@ class MinStack(object):
         :type value: int
         :rtype: None
         """
-        return self.s1.append(value)
+        returnself.s1.append(value)
 
     def pop(self):
         """
