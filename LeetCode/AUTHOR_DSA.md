@@ -297,7 +297,7 @@ Track your progress on the Curated 100hrs DSA core interview preparation list.
 - [ ] Backspace String Compare
 - [ ] Baseball Game
 - [x] [Longest Valid Parentheses](./C/Hard/32. Longest Valid Parentheses/)
-- [x] [Valid Parentheses](./C/Easy/20. Valid Parentheses/)
+- [x] [Valid Parentheses](./Python/Easy/20. Valid Parentheses/)
 - [ ] Decode String
 - [ ] 132 Pattern
 - [ ] Next Greater Element I

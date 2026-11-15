@@ -8,7 +8,7 @@ class Solution(object):
         for i in s:
             if i in "([{":
                 stack.append(i)
-            elif (i==")" and stack[-1]=="(") or (i=="]" and stack[-1]=="[") or (i=="}" and stack[-1]=="{") :
+            elif (i==")" and stack and stack[-1]=="(") or (i=="]" and stack and stack[-1]=="[") or (i=="}" and stack and stack[-1]=="{") :
                 stack.pop()
             else:
                 stack.append(i)
