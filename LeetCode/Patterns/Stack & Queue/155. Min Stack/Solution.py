@@ -26,10 +26,7 @@ class MinStack(object):
         """
         :rtype: int
         """
-        minn=self.s1[0]
-        for i in self.s1:
-            if i<minn:
-                minn=i
+    
         return minn
 
 
