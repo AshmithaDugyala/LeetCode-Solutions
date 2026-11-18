@@ -3,7 +3,7 @@
 Track your progress on the Curated 100hrs Advanced DSA interview preparation list.
 
 ## Progress
-- **Completed:** 8 / 65 (12.3%)
+- **Completed:** 9 / 65 (13.8%)
 
 ---
 
@@ -11,7 +11,7 @@ Track your progress on the Curated 100hrs Advanced DSA interview preparation lis
 
 ### 📂 Module  1.1: Linked List Fundamentals &
 - [x] [Add Two Numbers](./Python/Medium/2. Add Two Numbers/)
-- [ ] Merge Two Sorted Lists
+- [x] [Merge Two Sorted Lists](./Python/Easy/21. Merge Two Sorted Lists/)
 - [ ] Remove Linked List Elements
 - [ ] Reverse Linked List
 - [ ] Delete Node in a Linked List
