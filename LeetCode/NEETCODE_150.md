@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 24 / 150 (16.0%)
+- **Completed:** 25 / 150 (16.7%)
 
 ---
 
@@ -57,7 +57,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Reverse Linked List
 - [ ] Merge Two Sorted Lists
 - [ ] Reorder List
-- [ ] Remove Nth Node From End of List
+- [x] [Remove Nth Node From End of List](./Python/Medium/19. Remove Nth Node From End of List/)
 - [ ] Copy List with Random Pointer
 - [x] [Add Two Numbers](./Python/Medium/2. Add Two Numbers/)
 - [ ] Linked List Cycle
