@@ -1,6 +1,6 @@
 # 📝 70. Climbing Stairs (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/climbing-stairs/)
+🔗 [Problem Link](https://leetcode.com/problems/climbing-stairs)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -19,7 +19,7 @@ You are climbing a staircase. It takes  `n`  steps to reach the top.
 
 Each time you can either climb  `1`  or  `2`  steps. In how many distinct ways can you climb to the top?
 
-**Example 1:**
+OriginalPython **Example 1:**
 
 ```
 Input: n = 2
