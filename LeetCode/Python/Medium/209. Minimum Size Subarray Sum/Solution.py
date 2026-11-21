@@ -4,22 +4,22 @@ class Solution(object):
         :type target: int
         :type nums: List[int]
         :rtype: int
-        """
-        i=0
-        nums.sort()
-        while(i<len(nums)-1):
-            b+=nums[i]
-            if nums[i]+nums[i+1]==target:
-                a=[i,i+1]
-                return len(a)
-            if nums[i]==target or nums[i+1]==target:
-                a=[i]
-                return len(a)
-            i+=1
-        return 0
-
-        i=0
+        """     
+        j=0
         b=0
-        
+        ans=float('INF')
+        for i in range(len(nums)):
+            b+=nums[i]
+
+            while (b>=target):
+                ans=min(ans,i-j+1)
+                b-=nums[j]
+                j+=1
+        if ans==float('INF'):
+            return 0
+        return ans
+
+
+
         
         
