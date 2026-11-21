@@ -14,5 +14,5 @@ class Solution(object):
         if len(stones)==0:
             return 0
         else:
-            return 1
+            return stones[0]
 
