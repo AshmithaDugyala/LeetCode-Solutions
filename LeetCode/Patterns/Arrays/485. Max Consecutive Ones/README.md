@@ -8,8 +8,8 @@
 Array
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 19 ms
+- **Memory:** 13.5 MB
 
 ---
 
@@ -17,7 +17,7 @@ Array
 
 Given a binary array  `nums` , return  *the maximum number of consecutive*  `1`  *'s in the array* .
 
-OriginalPython **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [1,1,0,1,1,1]
