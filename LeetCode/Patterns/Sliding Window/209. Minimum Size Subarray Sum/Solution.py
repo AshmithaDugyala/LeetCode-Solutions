@@ -8,14 +8,10 @@ class Solution(object):
         i=0
         nums.sort()
         while(i<len(nums)-1):
-            b+=nums[i]
             if nums[i]+nums[i+1]==target:
-                a=[i,i+1]
-                return len(a)
+                return 2
             if nums[i]==target or nums[i+1]==target:
-                a=[i]
-                return len(a)
+                return 1
             i+=1
         return 0
-        
-        
+                
