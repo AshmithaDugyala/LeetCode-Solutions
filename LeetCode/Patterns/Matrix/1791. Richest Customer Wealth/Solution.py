@@ -4,11 +4,10 @@ class Solution(object):
         :type accounts: List[List[int]]
         :rtype: int
         """
-    
-        great=0
+        maxx=0
         for i in range(len(accounts)):
             a=0
             for j in range(len(accounts[i])):
                 a+=accounts[i][j]
-                great=max(great,a)
-        return great
+                maxx=max(maxx,a)
+        return maxx
