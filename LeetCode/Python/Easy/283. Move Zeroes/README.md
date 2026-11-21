@@ -8,8 +8,8 @@
 Array, Two Pointers
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 5 ms
+- **Memory:** 13.6 MB
 
 ---
 
