@@ -1,6 +1,6 @@
 # 📝 1046. Last Stone Weight (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/last-stone-weight)
+🔗 [Problem Link](https://leetcode.com/problems/last-stone-weight/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
