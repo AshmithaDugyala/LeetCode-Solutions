@@ -3,7 +3,7 @@
 Track your progress on the Grind 100 coding interview preparation list.
 
 ## Progress
-- **Completed:** 24 / 100 (24.0%)
+- **Completed:** 25 / 100 (25.0%)
 
 ---
 
@@ -89,7 +89,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Implement Trie (Prefix Tree)
 
 ### 📂 Dynamic Programming
-- [ ] Climbing Stairs
+- [x] [Climbing Stairs](./Python/Easy/70. Climbing Stairs/)
 - [ ] Coin Change
 - [ ] Word Break
 - [ ] Longest Increasing Subsequence
