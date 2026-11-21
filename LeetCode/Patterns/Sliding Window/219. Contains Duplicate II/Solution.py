@@ -5,10 +5,8 @@ class Solution(object):
         :type k: int
         :rtype: bool
         """
-
+        j=1
         for i in range(len(nums)):
-            for j in range(i+1,len(nums)):
-                if nums[i]==nums[j] and abs(i-j)<=k:
-                    return True
-        return False
+            if nums[i]!=nums[j] and abs(i-j)<=k:
+                j+=1
         
