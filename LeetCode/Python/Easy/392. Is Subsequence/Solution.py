@@ -7,6 +7,6 @@ class Solution(object):
         """
         j=0
         for i in t:
-            if j<en(s) and s[j]==i:
+            if j<len(s) and s[j]==i:
                 j+=1
         return j==len(s)
