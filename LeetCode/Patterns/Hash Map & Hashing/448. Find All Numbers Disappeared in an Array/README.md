@@ -1,6 +1,6 @@
 # 📝 448. Find All Numbers Disappeared in an Array (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/?envType=problem-list-v2&envId=array)
+🔗 [Problem Link](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Python-blue)
 
@@ -8,8 +8,8 @@
 Array, Hash Table
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 35 ms
+- **Memory:** 26.8 MB
 
 ---
 
@@ -17,7 +17,7 @@ Array, Hash Table
 
 Given an array  `nums`  of  `n`  integers where  `nums[i]`  is in the range  `[1, n]` , return  *an array of all the integers in the range*   `[1, n]`   *that do not appear in*   `nums` .
 
-OriginalPython **Example 1:**
+**Example 1:**
 
 ```
 Input: nums = [4,3,2,7,8,2,3,1]
